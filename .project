@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>stellaris_atdt_cloud</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+		<nature>com.ti.ccstudio.managedbuild.core.ccsNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>drivers/rit128x96x4.c</name>
+			<type>1</type>
+			<location>C:/StellarisWare/boards/ek-lm3s6965/drivers/rit128x96x4.c</location>
+		</link>
+		<link>
+			<name>drivers/kitronix320x240x16_ssd2119.c</name>
+			<type>1</type>
+			<location>C:/StellarisWare/boards/rdk-idm-l35/drivers/kitronix320x240x16_ssd2119.c</location>
+		</link>
+	</linkedResources>
+</projectDescription>
