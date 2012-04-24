@@ -13,7 +13,7 @@ General Overview:
 This project demonstrates how to use a Stellaris Development Kit to send and 
 receive data to/from the cloud via Exosite's Cloud Data Platform.  The 
 communication with the cloud is accomplished over HTTP with the Janus-RC GSM864Q 
-GPRS modem. The project sends AT command over a UART to the Janus modem.  The 
+GPRS modem. The project sends AT commands over a UART to the Janus modem.  The 
 project functionality writes a 'Ping' value to the cloud and reads a value 
 'interval' from the cloud.  Cloud information is shown on the on-board LCD 
 screen. For some development kits with enough screen size, an option to read a 
@@ -149,5 +149,5 @@ Release Info
 ================================================================================
 Release 2012-04-23
 --------------------------------------------------------------------------------
---) Initial release<br>
+* Initial release<br>
 
