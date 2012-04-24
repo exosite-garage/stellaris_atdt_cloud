@@ -1,9 +1,8 @@
 ================================================================================
 ReadMe for Stellaris ATDT Cloud<br>
-
+================================================================================
 ABOUT: Explains the contents in the stellaris_atdt_cloud project<br>
 AUTHOR: Exosite<br>
-================================================================================
 
 License of all cloud-specific components is BSD, Copyright 2012, Exosite LLC 
 (see LICENSE file)<br>
